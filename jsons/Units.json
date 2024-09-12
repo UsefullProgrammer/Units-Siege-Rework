@@ -115,7 +115,6 @@
 		"movement": 2,
 		"strength": 10,
 		"cost": 75,
-		"range":3,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
@@ -123,5 +122,5 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
-	},
+	}
 ]
